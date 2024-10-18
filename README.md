@@ -120,7 +120,7 @@ end
 ```
 
 Next, we import the View DSL from
-[`Ratatouille.View`](https://hexdocs.pm/ratatouille/Ratatouille.View):
+[`Ratatouille.View`](https://hexdocs.pm/ratatouille/Ratatouille.View.html):
 
 ```elixir
 import Ratatouille.View
